@@ -25,4 +25,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israt85&" alt="israt85" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Israt85&theme=blueberry)](https://git.io/streak-stats)
