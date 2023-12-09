@@ -36,7 +36,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Israt85&theme=blueberry)](https://git.io/streak-stats)
 
 <h1>Projects</h1>
-<a href="https://github.com/Israt85/My-brand-shop-project"> My-brand-shop-project </a>
+<br/>
+</br>
+*** <a href="https://github.com/Israt85/My-brand-shop-project"> My-brand-shop-project </a>
 <p> <h2> Features</h2>
 1. users can see on the home page the brand name and pic but it will be show on the home.
 2. If users click the brands it'll show the data including their products.
@@ -52,8 +54,9 @@
  Backend: Express,mongodb
 </p>
 Click here to view Brand-shop website : https://my-brand-shop.web.app
-
-<a href="https://github.com/Israt85/My-tour-guided-project"> Tour-Guided-project </a>
+<br/>
+</br>
+*** <a href="https://github.com/Israt85/My-tour-guided-project"> Tour-Guided-project </a>
 <p> <h2> Features</h2>
 <!-- *** -->
 My Guided Tour Project
@@ -75,8 +78,10 @@ My Guided Tour Project
  Backend: Express,mongodb,jwt
 </p>
 Click here to view Tour-Guided website : https://local-guided-project.web.app/
+<br/>
+</br>
 
-<a href="https://github.com/Israt85/My-local-tour-project"> Local-tour-project </a>
+*** <a href="https://github.com/Israt85/My-local-tour-project"> Local-tour-project </a>
 <p> <h2> Features</h2>
 <!-- *** -->
 Local Tour project
