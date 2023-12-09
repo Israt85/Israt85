@@ -5,9 +5,11 @@
 
 
 <img align="right" width="300" alt="Coding" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
-- 🌱 I’m currently learning **Nextjs**
+- I'm currently looking for a **Mern Stack Project**
 
-- 💬 Ask me about **javasrcipt,react**
+- 🌱 I’m currently learning **Advanced react concept,nodejs,Nextjs**
+
+- 💬 Ask me about **javasrcipt,react Basic**
 
 - 📫 How to reach me **isratanjuman3@gmail.com**
 
