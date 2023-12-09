@@ -31,7 +31,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Israt85&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Israt85&theme=blueberry)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Israt85/langs?time_range=six_months&theme=bright_lights)](https://githubtrends.io)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Israt85&theme=blueberry)](https://git.io/streak-stats)
 
