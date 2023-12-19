@@ -2,14 +2,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Israt Anjuman</h1>
-<h3 align="center">A passionate Mern stack developer from Bangladesh. I work with html,css,tailwind,javascript,react,expressjs,nodejs,Mongodb.
+<h3 align="center">A passionate Front-End developer from Bangladesh. I work with html,css,tailwind,javascript,react,expressjs,nodejs,Mongodb.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israt85&label=Profile%20views&color=0e75b6&style=flat" alt="israt85" /> </p>
 
 
 <img align="right" width="300" alt="Coding" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
-- I'm currently looking for a **Mern Stack Project**
+- I'm currently looking for a **Front-end Project**
 
 - 🌱 I’m currently learning **Nextjs**
 
