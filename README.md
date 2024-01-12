@@ -1,4 +1,4 @@
-<img alt="Write your topic (1).png" src="https://github.com/Israt85/Israt85/blob/main/Write%20your%20topic%20(1).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+<img alt="Add a heading.jpg" src="https://raw.githubusercontent.com/Israt85/Israt85/main/Add%20a%20heading.jpg" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 
 <h1 align="center">Hi 👋, I'm Israt Anjuman</h1>
