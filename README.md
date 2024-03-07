@@ -99,4 +99,45 @@ Local Tour project
  Backend: Express,mongodb
 </p>
 Click here to view Local-tour website : https://local-tour-a52be.web.app/
+<br/>
+</br>
+
+*** <a href="https://github.com/Israt85/My-local-tour-project"> Sentinel Trust Bank </a>
+<p> <h2> Features</h2>
+<!-- *** -->
+Sentinel Trust Bank
+<!-- *** -->
+Sentinel Trust Bank is an online banking system with cutting-edge technology and a user-friendly interface which can enhance the banking experience for individuals and businesses alike. At Sentinel Trust Bank, we are not just redefining online banking; we're crafting a unique financial journey personalized for you. Your financial adventure begins here. 
+
+Key Features of this Project : 
+
+-- User can see their money exchange rate .
+-- User can share their feedback
+-- It has Bank update section where user can see all the updated new of our bank & they can search & sort them.
+-- It has Signup with email verification system.
+-- User can Update their profile
+-- User can create bank account in online & switch them
+-- User can deposit or withdraw money by using different Payment Gateway
+-- User can get Virtual credit or debit card
+-- User can also apply for loan
+-- Only Admin can active or de-active the user's bank account
+-- Only Admin also can approve the user's card & loan application.
+-- Only Admin can Post/update/delete any bank update .
+-- User can get live chat support from the admin
+-- It has a theme changer in dashboard
+-- User can see their all transaction history & download or print it.
+-- User has a graph chart of their transaction
+-- Admin has some graph charts based on their total profit, total user, type of accounts, type of application etc.
+-- It has a Notification system into user side for admin's each activities. 
+
+
+My Contributed Key Features For This Project :
+
+Chat Support | Authentication | user & admin dynamic Chart | Dynamic Notification | User profile update | Login & Registration page etc
+ <h2>Technology </h2>
+ Frontend:
+ React,Tailwind,MaterialUI, Firebase <br/>
+ Backend: Express,Node.js,Mongoose
+</p>
+Click here to view Sentinel Trust Bank : https://sentinel-trust-bank.web.app
 
